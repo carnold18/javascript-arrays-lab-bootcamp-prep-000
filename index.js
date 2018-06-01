@@ -13,3 +13,5 @@ function destructivelyPrependKitten(Bob) {
 function destructivelyRemoveLastKitten() {
   return kittens.pop(); 
 }
+
+function 
