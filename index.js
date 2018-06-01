@@ -10,3 +10,6 @@ function destructivelyPrependKitten(Bob) {
   return kittens.unshift(Bob);
 }
 
+function destructivelyRemoveLastKitten() {
+  return kittens.slice(kittens.legnth - 1);
+}
