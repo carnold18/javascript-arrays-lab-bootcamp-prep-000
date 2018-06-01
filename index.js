@@ -22,4 +22,14 @@ function appendKitten(Broom) {
   return [...kittens, Broom];
 }
 
-function 
+function prependKitten(Arnold) {
+  return [Arnold, ...kittens];
+}
+
+function removeFirstKitten() {
+  return 
+}
+
+function removeLastKitten() {
+  
+}
