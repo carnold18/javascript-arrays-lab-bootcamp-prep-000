@@ -6,3 +6,4 @@ function destructivelyAppendKitten(Ralph) {
   return kittens.push(Ralph);
 }
 
+function destructivelyAppendKitten(Bob)
